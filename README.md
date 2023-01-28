@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Maha-Mamdouh, I have a Ph.D. degree in pure mathematics from Damietta University.
-- 👀 I'm interested in programming, because i love problem solving.
-- 🌱 I’m currently learning Web development. 
+- 👋 Hi, I’m @Maha-Mamdouh, I am a pure mathematics lecturer who loves programming.
+- 👀 My enjoyment of designing and building programs has led me to become a front-web developer.
+- 🌱I'm excited to use my skills in building stunning websites and applications. 
 - 📫 How to reach me:  mahy.mam@gmail.com
 
 <!---
